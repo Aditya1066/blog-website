@@ -6,14 +6,14 @@ Hey there! 👋 I'm Aditya, and this is my **Blog**, a cozy corner of the intern
 
 ## 📚 Table of Contents
 
-- [✨ Project Overview](#project-overview)
-- [🎉 Features](#features)
-- [🔧 Project Structure](#project-structure)
-- [🛠️ Technologies Used](#technologies-used)
-- [📥 Installation](#installation)
-- [🚀 Usage](#usage)
-- [📜 License](#license)
-- [📫 Contact](#contact)
+- [✨ Project Overview](#-project-overview)
+- [🎉 Features](#-features)
+- [🔧 Project Structure](#-project-structure)
+- [🛠️ Technologies Used](#-technologies-used)
+- [📥 Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [📜 License](#-license)
+- [📫 Contact](#-contact)
 
 ## ✨ Project Overview
 
