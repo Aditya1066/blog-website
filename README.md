@@ -9,7 +9,7 @@ Hey there! 👋 I'm Aditya, and this is my **Blog**, a cozy corner of the intern
 - [✨ Project Overview](#-project-overview)
 - [🎉 Features](#-features)
 - [🔧 Project Structure](#-project-structure)
-- [🛠️ Technologies Used](#-technologies-used)
+- [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
 - [📥 Installation](#-installation)
 - [🚀 Usage](#-usage)
 - [📜 License](#-license)
